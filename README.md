@@ -46,3 +46,5 @@ Today is a beautiful day.
 Hello, world!
 
 Hello, world!
+
+This designed to emphasize the absurdity of tracking git commits as an indication of value
