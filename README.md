@@ -42,3 +42,5 @@ Python programming is fun.
 Python programming is fun.
 
 Today is a beautiful day.
+
+Hello, world!
