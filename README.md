@@ -1,6 +1,12 @@
 
-Today is a beautiful day.
-This is a random sentence.
-Python programming is fun.
 Hello, world!
+
+Today is a beautiful day.
+
+Hello, world!
+
+This is a random sentence.
+
+Hello, world!
+
 Hello, world!
