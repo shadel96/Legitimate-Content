@@ -60,3 +60,5 @@ Python programming is fun.
 Today is a beautiful day.
 
 Today is a beautiful day.
+
+Today is a beautiful day.
