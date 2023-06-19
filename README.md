@@ -76,3 +76,5 @@ Python programming is fun.
 This is a random sentence.
 
 Python programming is fun.
+
+Hello, world!
