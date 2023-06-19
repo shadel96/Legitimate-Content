@@ -74,3 +74,5 @@ Today is a beautiful day.
 Python programming is fun.
 
 This is a random sentence.
+
+Python programming is fun.
