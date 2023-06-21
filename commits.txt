@@ -20,3 +20,5 @@ I am truly pouring my heart and soul into this content.
 I am truly pouring my heart and soul into this content.
 
 Have a nice day :)
+
+This designed to emphasize the absurdity of valuing git commits.
