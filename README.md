@@ -4,3 +4,5 @@ This designed to emphasize the absurdity of tracking git commits as an indicatio
 This is a random sentence.
 
 Python programming is fun.
+
+Hello, world!
