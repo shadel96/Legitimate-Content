@@ -25,3 +25,5 @@ This designed to emphasize the absurdity of valuing git commits.
 
 Even if someone doesn't work for a day, they are still qualified to work. People are not output machines.
 \Silliness
+
+Hello, Cruel World!
