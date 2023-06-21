@@ -8,3 +8,5 @@ Just because someone isn't doing things the way you expect them to, doesn't mean
 Don't look at someone's commit history as an indication of their worth.
 
 I work on my programming and educate myself in something new almost every single day, but in what world does that mean I would post it on GitHub every day?
+
+Even if someone doesn't work for a day, they are still qualified to work. People are not output machines.
