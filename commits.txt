@@ -59,3 +59,5 @@ I work on my programming and educate myself in something new almost every single
 
 Don't look at someone's commit history as an indication of their worth.
 \Words Go Here
+
+Hello, Cruel World!
