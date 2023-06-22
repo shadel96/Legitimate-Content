@@ -54,3 +54,5 @@ Filler
 Even if someone doesn't work for a day, they are still qualified to work. People are not output machines.
 
 Filler
+
+I work on my programming and educate myself in something new almost every single day, but in what world does that mean I would post it on GitHub every day?
