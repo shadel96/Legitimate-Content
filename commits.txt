@@ -162,3 +162,5 @@ Hogwash
 Hello, Cruel World!
 
 Nonsense words here
+
+Don't look at someone's commit history as an indication of their worth.
