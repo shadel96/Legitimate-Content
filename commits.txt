@@ -152,3 +152,5 @@ This designed to emphasize the absurdity of valuing git commits.
 I am truly pouring my heart and soul into this content.
 
 Hello, Cruel World!
+
+Don't look at someone's commit history as an indication of their worth.
