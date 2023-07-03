@@ -158,3 +158,5 @@ Don't look at someone's commit history as an indication of their worth.
 This designed to emphasize the absurdity of valuing git commits.
 
 Hogwash
+
+Hello, Cruel World!
