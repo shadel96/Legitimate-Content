@@ -266,3 +266,4 @@ This designed to emphasize the absurdity of valuing git commits.
 Just because someone isn't doing things the way you expect them to, doesn't mean they're not doing anything
 
 Have a nice day :)
+\Silliness
