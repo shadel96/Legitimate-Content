@@ -271,3 +271,5 @@ Have a nice day :)
 Filler
 
 I am truly pouring my heart and soul into this content.
+
+Don't look at someone's commit history as an indication of their worth.
