@@ -278,3 +278,5 @@ Hogwash
 
 Have a nice day :)
 \Words Go Here
+
+I work on my programming and educate myself in something new almost every single day, but in what world does that mean I would post it on GitHub every day?
