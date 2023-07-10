@@ -296,3 +296,5 @@ Filler
 Poppycock
 
 This designed to emphasize the absurdity of valuing git commits.
+
+This designed to emphasize the absurdity of valuing git commits.
